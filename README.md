@@ -14,8 +14,7 @@
 3. FreeRTOS、IAP、传感器及外设驱动
 4. NRF24L01 等无线通信应用
 
-📫 联系我：你的邮箱  
-🔗 GitHub：https://github.com/uu0901
+📫 **联系我：** 647803562@qq.com | [GitHub](https://github.com/uu0901) | [硬件开源](https://oshwhub.com/kkstudy)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
